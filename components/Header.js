@@ -85,6 +85,7 @@ const Header = () => {
               </Link>
             </span>
           </div>
+          <div></div>
           <div className="float-left block lg:hidden">
             <button
               onClick={() => setMenuVisibility(!isMenuVisible)}
